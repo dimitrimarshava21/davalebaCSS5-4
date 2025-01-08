@@ -1,0 +1,236 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner {
+    max-width: 1040px;
+    width: 100%;
+}
+
+.wrapper--conteiner {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.wrapper--backgraund {
+    background: #F1EBFF;
+    padding: 20px 0px;
+}
+
+.boy--wrapper {
+    color: #40D;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.rent--wraper {
+    color: #5E6577;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.destination--wrapper {
+    display: flex;
+    margin-top: 64px;
+    justify-content: space-between;
+}
+
+.Booking--wrapper {
+    display: flex;
+    border-radius: 16px;
+    background: #F1EBFF;
+    padding: 8px 24px 8px 12px;
+    align-items: center;
+    gap: 12px;
+}
+
+.destination--Booking {
+    color: #323232;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.frame--wrapper {
+    border-bottom: 1px solid #CCD3E0;
+    margin-top: 24px;
+}
+
+.serch--wrapper {
+    display: flex;
+    width: 56px;
+    padding: 16px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #40D;
+}
+
+.everything--wrapper {
+    display: flex;
+    margin-top: 64px;
+    gap: 40px;
+    align-items: center;
+}
+
+.supermarket--conteiner {
+    color: #5E6577;
+    text-align: right;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.display--contact {
+    color: #40D;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.includes--wrapper {
+    display: flex;
+    gap: 24px;
+    margin-top: 64px;
+}
+
+.snowdon--wrapper {
+    display: flex;
+    margin-top: 64px;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+    border-top: 2px solid #8CE900;
+    border-right: 2px solid #155EEF;
+    border-bottom: 2px solid #DD2590;
+    border-left: 2px solid #000;
+    height: 266px;
+}
+
+.penypass--wrapper {
+    color: #5E6577;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    width: 488px;
+}
+
+.contributed--wrapper {
+    width: 488px;
+    color: #969696;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.beautifully--wrapper {
+    border-radius: 8px;
+    border: 1px solid #40D;
+    background: #EDE6FC;
+    display: flex;
+    height: 272px;
+    padding: 16px 24px;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+}
+
+.history--conteiner {
+    color: #3B3B3B;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    width: 488px;
+
+}
+
+.sacramento--wrapper {
+    color: #5E6577;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.originally--wrapper {
+    display: flex;
+    gap: 64px;
+    flex-direction: column;
+}
+
+.london--conteiner {
+    color: #07081A;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    width: 488px;
+    line-height: 28px;
+}
+
+.courthouse--wrapper {
+    display: flex;
+    height: 272px;
+    padding: 16px 24px;
+    align-items: flex-end;
+    gap: 16px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #004FE3;
+}
+
+.hosted--wrapper {
+    color: #155EEF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    width: 488px;
+
+}
+
+.footer--wrapper {
+    display: flex;
+    padding-top: 40px;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    gap: 24px;
+
+}
+
+.border--wrapper {
+    border-top: 1px solid #F1EBFF;
+    width: 100%;
+    margin-top: 190px;
+}
